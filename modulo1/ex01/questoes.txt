@@ -1,0 +1,3 @@
+a) 
+b) Enquanto que o primeiro é a morada do array completo, os restantes são a morada das respectivas posições no array.
+c) Não.

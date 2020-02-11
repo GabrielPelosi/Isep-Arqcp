@@ -1,0 +1,1 @@
+void changes(int *ptr);
